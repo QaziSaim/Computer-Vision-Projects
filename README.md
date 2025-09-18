@@ -1,4 +1,3 @@
-````markdown
 # Computer Vision Projects
 
 Welcome to **Computer Vision Projects** by Qazi Saim!  
@@ -31,7 +30,6 @@ This repository contains several end-to-end computer vision applications demonst
    ```bash
    git clone https://github.com/QaziSaim/Computer-Vision-Projects.git
    cd Computer-Vision-Projects
-````
 
 2. Navigate into the project you want to run, for example:
 
