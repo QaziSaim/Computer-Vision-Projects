@@ -90,8 +90,3 @@ Here are some directions you could take these further:
 
 If you’d like to discuss or collaborate, reach out to me at:
 **Qazi Saim** — [GitHub Profile](https://github.com/QaziSaim)
-
----
-
-::contentReference[oaicite:0]{index=0}
-```
