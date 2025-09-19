@@ -7,6 +7,7 @@ This repository contains several end-to-end computer vision applications demonst
 
 ## 📁 Projects Overview
 
+
 | Project | Description |
 |---|---|
 | **PPE_detection_YOLO** | A system to detect personal protective equipment (helmets, vests, masks etc.) on individuals in images/video using YOLO. Useful for enforcing safety compliance in industrial/work environments. |
